@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidAvanzado</string>
+    <string name="movie_poster">Poster de la pelicula</string>
+    <string name="pel_culas_por_g_nero">Películas por Género</string>
+
+    <string-array name="movie_genres">
+        <item>Animación</item>
+        <item>Acción/Aventura</item>
+        <item>Clasicas</item>
+        <item>Comedia</item>
+        <item>Drama</item>
+        <item>Horror</item>
+        <item>Misterio</item>
+        <item>Ciencia Ficcion</item>
+        <item>Western</item>
+    </string-array>
+</resources>
